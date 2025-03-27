@@ -16,7 +16,6 @@
 - <b>Excel</b>
   - [Bike Sales Analysis](https://github.com/HannaYoh/DataCleaningExcel)
 
- <h2>📄 Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
